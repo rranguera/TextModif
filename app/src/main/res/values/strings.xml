@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextModif</string>
+    <string name="chk1_cat_inv">Invertir</string>
+    <string name="chk2_cat_mayu">Majúscules</string>
+    <string name="btn1_cat_conv">Convertir</string>
+</resources>
